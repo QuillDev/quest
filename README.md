@@ -9,4 +9,5 @@ Status Screen
 ![Example Status](./resources/status.png)
 
 Help Menu
+
 ![Help menu](./resources/help.png)
